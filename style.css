@@ -384,6 +384,7 @@ SEKCJA "CONTACT"
 .gallery__image: hover {
         animation: rotateAnim 3 s,
         blurAnim 3 s;
+}
 
 
 
